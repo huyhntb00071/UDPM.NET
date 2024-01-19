@@ -1,0 +1,15 @@
+D:\TIN HỌC\DAM\QLBanHang\QLBanHang\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.dll.config
+D:\TIN HỌC\DAM\QLBanHang\QLBanHang\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+D:\TIN HỌC\DAM\QLBanHang\QLBanHang\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+D:\TIN HỌC\DAM\QLBanHang\QLBanHang\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+D:\TIN HỌC\DAM\QLBanHang\QLBanHang\DAL_QLBanHang\bin\Debug\EntityFramework.dll
+D:\TIN HỌC\DAM\QLBanHang\QLBanHang\DAL_QLBanHang\bin\Debug\EntityFramework.SqlServer.dll
+D:\TIN HỌC\DAM\QLBanHang\QLBanHang\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+D:\TIN HỌC\DAM\QLBanHang\QLBanHang\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.dll.config
+D:\TIN HỌC\DAM\QLBanHang\QLBanHang\DAL_QLBanHang\bin\Debug\EntityFramework.xml
+D:\TIN HỌC\DAM\QLBanHang\QLBanHang\DAL_QLBanHang\bin\Debug\EntityFramework.SqlServer.xml
+D:\TIN HỌC\DAM\QLBanHang\QLBanHang\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.AssemblyReference.cache
+D:\TIN HỌC\DAM\QLBanHang\QLBanHang\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.CoreCompileInputs.cache
+D:\TIN HỌC\DAM\QLBanHang\QLBanHang\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.CopyComplete
+D:\TIN HỌC\DAM\QLBanHang\QLBanHang\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.dll
+D:\TIN HỌC\DAM\QLBanHang\QLBanHang\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.pdb
